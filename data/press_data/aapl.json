@@ -1,0 +1,1018 @@
+[
+    {
+        "ticker": "aapl",
+        "sector": "Technology",
+        "data": [
+            {
+                "index": 0,
+                "date": "2023-05-04",
+                "press_title": "Apple reports second quarter results",
+                "release_url": "https://www.apple.com/newsroom/2023/05/apple-reports-second-quarter-results/",
+                "content": "CUPERTINO, CALIFORNIA Apple today announced financial results for its fiscal 2023 second quarter ended April 1, 2023. The Company posted quarterly revenue of $94.8 billion, down 3 percent year over year, and quarterly earnings per diluted share of $1.52, unchanged year over year.\n",
+                "1d_change": 5.0008709003,
+                "index_price": 1.2982762447,
+                "norm_price": 3.7025946556
+            },
+            {
+                "index": 1,
+                "date": "2023-02-02",
+                "press_title": "Apple reports first quarter results",
+                "release_url": "https://www.apple.com/newsroom/2023/02/apple-reports-first-quarter-results/",
+                "content": "Cupertino, California Apple today announced financial results for its fiscal 2023 first quarter ended December 31, 2022. The Company posted quarterly revenue of $117.2 billion, down 5 percent year over year, and quarterly earnings per diluted share of $1.88.\n",
+                "1d_change": 3.6245925185,
+                "index_price": -0.5366929229,
+                "norm_price": 4.1612854414
+            },
+            {
+                "index": 2,
+                "date": "2022-11-06",
+                "press_title": "Update on supply of iPhone 14 Pro and iPhone 14 Pro Max",
+                "release_url": "https://www.apple.com/newsroom/2022/11/update-on-supply-of-iphone-14-pro-and-iphone-14-pro-max/",
+                "content": "CUPERTINO, California COVID-19 restrictions have temporarily impacted the primary iPhone 14 Pro and iPhone 14 Pro Max assembly facility located in Zhengzhou, China. The facility is currently operating at significantly reduced capacity. As we have done throughout the COVID-19 pandemic, we are prioritizing the health and safety of the workers in our supply chain.\n",
+                "1d_change": 1.7132652261,
+                "index_price": 1.2382127252,
+                "norm_price": 0.4750525009
+            },
+            {
+                "index": 3,
+                "date": "2022-10-27",
+                "press_title": "Apple Reports Fourth Quarter Results",
+                "release_url": "https://www.apple.com/newsroom/2022/10/apple-reports-fourth-quarter-results/",
+                "content": "Cupertino, California October 27, 2022 Apple today announced financial results for its fiscal 2022 fourth quarter ended September 24, 2022. The Company posted a September quarter record revenue of $90.1 billion, up 8 percent year over year, and quarterly earnings per diluted share of $1.29, up 4 percent year over year. Annual revenue was $394.3 billion, up 8 percent year over year, and annual earnings per diluted share were $6.11, up 9 percent year over year.\n",
+                "1d_change": 4.9248711668,
+                "index_price": 1.7013354368,
+                "norm_price": 3.22353573
+            },
+            {
+                "index": 4,
+                "date": "2022-07-28",
+                "press_title": "Apple Reports Third Quarter Results",
+                "release_url": "https://www.apple.com/newsroom/2022/07/apple-reports-third-quarter-results/",
+                "content": "CUPERTINO, California July 28, 2022 Apple today announced financial results for its fiscal 2022 third quarter ended June 25, 2022. The Company posted a June quarter revenue record of $83.0 billion, up 2 percent year over year, and quarterly earnings per diluted share of $1.20.\n",
+                "1d_change": 3.402869282,
+                "index_price": 2.5218605779,
+                "norm_price": 0.881008704
+            },
+            {
+                "index": 5,
+                "date": "2022-05-05",
+                "press_title": "Apple, Google, and Microsoft commit to expanded support for FIDO standard",
+                "release_url": "https://www.apple.com/newsroom/2022/05/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard/",
+                "content": "Mountain View, California In a joint effort to make the web more secure and usable for all, Apple, Google, and Microsoft today announced plans to expand support for a common passwordless sign-in standard created by the FIDO Alliance and the World Wide Web Consortium. The new capability will allow websites and apps to offer consistent, secure, and easy passwordless sign-ins to consumers across devices and platforms.\n",
+                "1d_change": -4.0244321404,
+                "index_price": -3.5672619189,
+                "norm_price": -0.4571702215
+            },
+            {
+                "index": 6,
+                "date": "2022-04-28",
+                "press_title": "Apple Reports Second Quarter Results",
+                "release_url": "https://www.apple.com/newsroom/2022/04/apple-reports-second-quarter-results/",
+                "content": "CUPERTINO, California April 28, 2022 Apple today announced financial results for its fiscal 2022 second quarter ended March 26, 2022. The Company posted a March quarter revenue record of $97.3 billion, up 9 percent year over year, and quarterly earnings per diluted share of $1.52.\n",
+                "1d_change": -1.0149265909,
+                "index_price": -2.1938875656,
+                "norm_price": 1.1789609747
+            },
+            {
+                "index": 7,
+                "date": "2022-03-30",
+                "press_title": "Apple launches $50 million Supplier Employee Development Fund",
+                "release_url": "https://www.apple.com/newsroom/2022/03/apple-launches-50-million-supplier-employee-development-fund/",
+                "content": "Cupertino, California  Apple today announced a $50 million Supplier Employee Development Fund that will expand access to learning opportunities and skills development. The fund also includes new and expanded partnerships with leading rights advocates, universities, and nonprofits to drive Apple’s ongoing work to empower supplier employees and drive improvements in knowledge of and respect for workplace rights across industries.\n",
+                "1d_change": -2.2564611436,
+                "index_price": -2.0702328449,
+                "norm_price": -0.1862282987
+            },
+            {
+                "index": 8,
+                "date": "2022-01-27",
+                "press_title": "Apple Reports First Quarter Results",
+                "release_url": "https://www.apple.com/newsroom/2022/01/apple-reports-first-quarter-results/",
+                "content": "CUPERTINO, California January 27, 2022 Apple today announced financial results for its fiscal 2022 first quarter ended December 25, 2021. The Company posted an all-time revenue record of $123.9 billion, up 11 percent year over year, and quarterly earnings per diluted share of $2.10.\n",
+                "1d_change": 4.6263195958,
+                "index_price": 1.1568536481,
+                "norm_price": 3.4694659478
+            },
+            {
+                "index": 9,
+                "date": "2021-11-23",
+                "press_title": "Apple sues NSO Group to curb the abuse of state-sponsored spyware",
+                "release_url": "https://www.apple.com/newsroom/2021/11/apple-sues-nso-group-to-curb-the-abuse-of-state-sponsored-spyware/",
+                "content": "CUPERTINO, CALIFORNIA Apple today filed a lawsuit against NSO Group and its parent company to hold it accountable for the surveillance and targeting of Apple users. The complaint provides new information on how NSO Group infected victims’ devices with its Pegasus spyware. To prevent further abuse and harm to its users, Apple is also seeking a permanent injunction to ban NSO Group from using any Apple software, services, or devices.\n",
+                "1d_change": 0.5063620416,
+                "index_price": 0.4887839237,
+                "norm_price": 0.0175781179
+            },
+            {
+                "index": 10,
+                "date": "2021-11-17",
+                "press_title": "Apple announces Self Service Repair",
+                "release_url": "https://www.apple.com/newsroom/2021/11/apple-announces-self-service-repair/",
+                "content": "CUPERTINO, CALIFORNIA Apple today announced Self Service Repair, which will allow customers who are comfortable with completing their own repairs access to Apple genuine parts and tools. Available first for the iPhone 12 and iPhone 13 lineups, and soon to be followed by Mac computers featuring M1 chips, Self Service Repair will be available early next year in the US and expand to additional countries throughout 2022. Customers join more than 5,000 Apple Authorized Service Providers (AASPs) and 2,800 Independent Repair Providers who have access to these parts, tools, and manuals.\n",
+                "1d_change": 4.3516790696,
+                "index_price": 0.0646192622,
+                "norm_price": 4.2870598074
+            },
+            {
+                "index": 11,
+                "date": "2021-11-09",
+                "press_title": "Alex Gorsky joins Apple’s board of directors",
+                "release_url": "https://www.apple.com/newsroom/2021/11/alex-gorsky-joins-apples-board-of-directors/",
+                "content": "CUPERTINO, CALIFORNIA Apple today announced Alex Gorsky, chairman and CEO of Johnson & Johnson, has been elected to Apple’s board of directors. Gorsky will bring decades of experience in corporate leadership and health technologies, and a long track record of leading innovative and diverse teams around the world.\n",
+                "1d_change": -1.5413798757,
+                "index_price": -1.302858142,
+                "norm_price": -0.2385217337
+            },
+            {
+                "index": 12,
+                "date": "2021-10-28",
+                "press_title": "Apple Reports Fourth Quarter Results",
+                "release_url": "https://www.apple.com/newsroom/2021/10/apple-reports-fourth-quarter-results/",
+                "content": "CUPERTINO, CALIFORNIA October 28, 2021 Apple today announced financial results for its fiscal 2021 fourth quarter ended September 25, 2021. The Company posted a September quarter revenue record of $83.4 billion, up 29 percent year over year, and quarterly earnings per diluted share of $1.24.\n",
+                "1d_change": -0.0133626881,
+                "index_price": 0.9237031503,
+                "norm_price": -0.9370658384
+            },
+            {
+                "index": 13,
+                "date": "2021-08-26",
+                "press_title": "Apple, US developers agree to App Store updates",
+                "release_url": "https://www.apple.com/newsroom/2021/08/apple-us-developers-agree-to-app-store-updates/",
+                "content": "CUPERTINO, CALIFORNIA Apple today announced a number of changes coming to the App Store that, pending court approval, will resolve a class-action suit from US developers. The terms of the agreement will help make the App Store an even better business opportunity for developers, while maintaining the safe and trusted marketplace users love. Apple appreciates the developer feedback and ideas that helped inform the agreement, and respects the ongoing judicial review process.\n",
+                "1d_change": 0.1682344699,
+                "index_price": 0.3463924402,
+                "norm_price": -0.1781579703
+            },
+            {
+                "index": 14,
+                "date": "2021-07-27",
+                "press_title": "Apple Reports Third Quarter Results",
+                "release_url": "https://www.apple.com/newsroom/2021/07/apple-reports-third-quarter-results/",
+                "content": "CUPERTINO, California July 27, 2021 Apple today announced financial results for its fiscal 2021 third quarter ended June 26, 2021. The Company posted a June quarter record revenue of $81.4 billion, up 36 percent year over year, and quarterly earnings per diluted share of $1.30.\n",
+                "1d_change": -2.8555745122,
+                "index_price": -0.3576694664,
+                "norm_price": -2.4979050458
+            },
+            {
+                "index": 15,
+                "date": "2021-06-22",
+                "press_title": "Apple launches Today at Apple Creative Studios to provide opportunities to underrepresented young creatives",
+                "release_url": "https://www.apple.com/newsroom/2021/06/apple-launches-today-at-apple-creative-studios/",
+                "content": "Los Angeles Apple today announced Today at Apple Creative Studios, a global initiative that will provide career-building mentorship, professional industry skills training, creative resources, and access to Apple’s full product lineup of iPhone, iPad, and Mac to underrepresented communities across the globe. Creative Studios will launch first in Los Angeles and Beijing, followed by Bangkok, London, Chicago, and Washington, D.C. later this year. In each city, Apple will work hand-in-hand with nonprofit community organizations to connect youth with mentors and established artists.\n",
+                "1d_change": 1.1742814557,
+                "index_price": 0.4061912072,
+                "norm_price": 0.7680902485
+            },
+            {
+                "index": 16,
+                "date": "2021-05-05",
+                "press_title": "Apple awards additional $410 million from Advanced Manufacturing Fund to II-VI",
+                "release_url": "https://www.apple.com/newsroom/2021/05/apple-awards-an-additional-410-million-from-its-advanced-manufacturing-fund-to-ii-vi/",
+                "content": "Cupertino, California Apple today announced a new $410 million award from its Advanced Manufacturing Fund for II-VI, a leading manufacturer of optical technology. Today’s award builds on an initial $390 million awarded from Apple’s Advanced Manufacturing Fund in 2017. The expansion of the company’s long-standing relationship with II-VI will create additional capacity and accelerate delivery of future components for iPhone, with 700 jobs in Sherman, Texas; Warren, New Jersey; Easton, Pennsylvania; and Champaign, Illinois.\n",
+                "1d_change": 0.4162243096,
+                "index_price": 0.584537819,
+                "norm_price": -0.1683135094
+            },
+            {
+                "index": 17,
+                "date": "2021-04-28",
+                "press_title": "Apple Reports Second Quarter Results",
+                "release_url": "https://www.apple.com/newsroom/2021/04/apple-reports-second-quarter-results/",
+                "content": "Cupertino, California April 28, 2021 Apple today announced financial results for its fiscal 2021 second quarter ended March 27, 2021. The Company posted a March quarter record revenue of $89.6 billion, up 54 percent year over year, and quarterly earnings per diluted share of $1.40. International sales accounted for 67 percent of the quarter’s revenue.\n",
+                "1d_change": -0.6218045718,
+                "index_price": 0.6251992008,
+                "norm_price": -1.2470037726
+            },
+            {
+                "index": 18,
+                "date": "2021-04-26",
+                "press_title": "Apple commits $430 billion in US investments over five years",
+                "release_url": "https://www.apple.com/newsroom/2021/04/apple-commits-430-billion-in-us-investments-over-five-years/",
+                "content": "Cupertino, California Apple today announced an acceleration of its US investments, with plans to make new contributions of more than $430 billion and add 20,000 new jobs across the country over the next five years. Over the past three years, Apple’s contributions in the US have significantly outpaced the company’s original five-year goal of $350 billion set in 2018. Apple is now raising its level of commitment by 20 percent over the next five years, supporting American innovation and driving economic benefits in every state. This includes tens of billions of dollars for next-generation silicon development and 5G innovation across nine US states.\n",
+                "1d_change": -0.3274157648,
+                "index_price": 0.0403759889,
+                "norm_price": -0.3677917537
+            },
+            {
+                "index": 19,
+                "date": "2021-03-31",
+                "press_title": "Apple powers ahead in new renewable energy solutions with over 110 suppliers",
+                "release_url": "https://www.apple.com/newsroom/2021/03/apple-powers-ahead-in-new-renewable-energy-solutions-with-over-110-suppliers/",
+                "content": "Cupertino, California Apple today announced over 110 of its manufacturing partners around the world are moving to 100 percent renewable energy for their Apple production, with nearly 8 gigawatts of planned clean energy set to come online. Once completed, these commitments will avoid over 15 million metric tons of CO2e annually — the equivalent of taking more than 3.4 million cars off the road each year. Additionally, Apple is investing directly in renewable energy projects to cover a portion of upstream emissions, as well as a major energy storage project in California to pilot new solutions for renewable infrastructure.\n",
+                "1d_change": 1.0975484269,
+                "index_price": 1.3090004317,
+                "norm_price": -0.2114520048
+            },
+            {
+                "index": 20,
+                "date": "2021-03-17",
+                "press_title": "Apple’s $4.7 billion Green Bond spend helps create 1.2 gigawatts of clean power",
+                "release_url": "https://www.apple.com/newsroom/2021/03/apples-four-point-seven-billion-green-bond-spend-is-helping-to-create-one-point-two-gigawatts-of-clean-power/",
+                "content": "Cupertino, California Apple’s newly completed renewable projects, part of the company’s planned $4.7 billion Green Bond spend, are bringing clean energy to local communities while reducing carbon emissions. In 2020, Apple funded 17 Green Bond projects that will avoid an average of 921,000 metric tons of carbon emissions annually, which is equivalent to removing nearly 200,000 cars from the road. The projects will generate 1.2 gigawatts of renewable energy globally, with Apple adding over 350 megawatts of newly installed renewable energy over the last year in Nevada, Illinois, Virginia, and Denmark. Apple’s Green Bond issuances are among the largest in the private sector.\n",
+                "1d_change": -2.9204396895,
+                "index_price": -0.8711647613,
+                "norm_price": -2.0492749282
+            },
+            {
+                "index": 21,
+                "date": "2021-01-27",
+                "press_title": "Apple Reports First Quarter Results",
+                "release_url": "https://www.apple.com/newsroom/2021/01/apple-reports-first-quarter-results/",
+                "content": "Cupertino, California — January 27, 2021 — Apple today announced financial results for its fiscal 2021 first quarter ended December 26, 2020. The Company posted all-time record revenue of $111.4 billion, up 21 percent year over year, and quarterly earnings per diluted share of $1.68, up 35 percent. International sales accounted for 64 percent of the quarter’s revenue.\n",
+                "1d_change": -4.6247215989,
+                "index_price": -1.3056571256,
+                "norm_price": -3.3190644733
+            },
+            {
+                "index": 22,
+                "date": "2021-01-25",
+                "press_title": "Dan Riccio begins a new chapter at Apple",
+                "release_url": "https://www.apple.com/newsroom/2021/01/dan-riccio-begins-a-new-chapter-at-apple/",
+                "content": "Cupertino, California — Apple today announced Dan Riccio will transition to a new role focusing on a new project and reporting to CEO Tim Cook, building on more than two decades of innovation, service, and leadership at Apple. John Ternus will now lead Apple’s Hardware Engineering organization as a member of the executive team.\n",
+                "1d_change": 0.0628934584,
+                "index_price": -0.0535069537,
+                "norm_price": 0.1164004121
+            },
+            {
+                "index": 23,
+                "date": "2021-01-13",
+                "press_title": "Apple launches major new Racial Equity and Justice Initiative projects",
+                "release_url": "https://www.apple.com/newsroom/2021/01/apple-launches-major-new-racial-equity-and-justice-initiative-projects-to-challenge-systemic-racism-advance-racial-equity-nationwide/",
+                "content": "Cupertino, California — Apple today announced a set of major new projects as part of its $100 million Racial Equity and Justice Initiative (REJI) to help dismantle systemic barriers to opportunity and combat injustices faced by communities of color. These forward-looking and comprehensive efforts include the Propel Center, a first-of-its-kind global innovation and learning hub for Historically Black Colleges and Universities (HBCUs); an Apple Developer Academy to support coding and tech education for students in Detroit; and venture capital funding for Black and Brown entrepreneurs. Together, Apple’s REJI commitments aim to expand opportunities for communities of color across the country and to help build the next generation of diverse leaders.\n",
+                "1d_change": 0.1163729882,
+                "index_price": -0.176257959,
+                "norm_price": 0.2926309472
+            },
+            {
+                "index": 24,
+                "date": "2021-01-05",
+                "press_title": "Monica Lozano joins Apple’s board of directors",
+                "release_url": "https://www.apple.com/newsroom/2021/01/monica-lozano-joins-apples-board-of-directors/",
+                "content": "Cupertino, California — Apple today announced that Monica Lozano, president and CEO of College Futures Foundation, has been elected to Apple’s board of directors. Lozano brings with her a broad range of leadership experience in the public and private sectors, as well as a long and storied track record as a champion for equity, opportunity, and representation.\n",
+                "1d_change": -1.8088658871,
+                "index_price": 1.3371932341,
+                "norm_price": -3.1460591211
+            },
+            {
+                "index": 25,
+                "date": "2020-10-29",
+                "press_title": "Apple Reports Fourth Quarter Results",
+                "release_url": "https://www.apple.com/newsroom/2020/10/apple-reports-fourth-quarter-results/",
+                "content": "Cupertino, California — October 29, 2020 — Apple today announced financial results for its fiscal 2020 fourth quarter ended September 26, 2020. The Company posted record September quarter revenue of $64.7 billion and quarterly earnings per diluted share of $0.73. International sales accounted for 59 percent of the quarter’s revenue.\n",
+                "1d_change": -3.2243129142,
+                "index_price": -0.2204908018,
+                "norm_price": -3.0038221124
+            },
+            {
+                "index": 26,
+                "date": "2020-09-17",
+                "press_title": "Apple brings online store to India September 23",
+                "release_url": "https://www.apple.com/newsroom/2020/09/apple-brings-online-store-to-india-september-23/",
+                "content": "Mumbai, India — Apple will launch the Apple Store online in India on September 23, offering Apple’s full range of products and support directly to customers across the country for the first time. The new online store will provide customers with the same premium experience found in Apple store locations around the world, delivered by online team members who are ready to offer their expertise.\n",
+                "1d_change": -2.6956274085,
+                "index_price": -0.8251358488,
+                "norm_price": -1.8704915597
+            },
+            {
+                "index": 27,
+                "date": "2020-09-15",
+                "press_title": "Singapore and Apple partner on national health initiative using Apple Watch",
+                "release_url": "https://www.apple.com/newsroom/2020/09/singapore-and-apple-partner-on-national-health-initiative-using-apple-watch/",
+                "content": "Cupertino, California — The government of Singapore and Apple today announced their partnership on the health initiative LumiHealth, a personalized program to encourage healthy activity and behaviors using Apple Watch. The first-of-its-kind program was designed by Singapore’s Health Promotion Board in conjunction with Apple as part of the country’s Smart Nation initiative, a national effort to leverage technology to deliver benefits to its citizens and businesses. Created in collaboration with a team of physicians and public health experts, LumiHealth uses technology and behavioral insights to encourage Singaporeans to keep healthy and complete wellness challenges through their Apple Watch and iPhone. The LumiHealth app, designed with user privacy and security at its core, is available in the App Store for pre-order now, and the two-year program will be offered from late October 2020.\n",
+                "1d_change": -5.5293052019,
+                "index_price": -0.6569208681,
+                "norm_price": -4.8723843338
+            },
+            {
+                "index": 28,
+                "date": "2020-08-04",
+                "press_title": "Phil Schiller advances to Apple Fellow",
+                "release_url": "https://www.apple.com/newsroom/2020/08/phil-schiller-advances-to-apple-fellow/",
+                "content": "Cupertino, California — Apple today announced that Phil Schiller will become an Apple Fellow, continuing a storied career that began at Apple in 1987. In this role, which reports to Apple CEO Tim Cook, Schiller will continue to lead the App Store and Apple Events. Greg (Joz) Joswiak, a longtime leader within the Product Marketing organization, will join the executive team as senior vice president of Worldwide Marketing.\n",
+                "1d_change": 0.8449617554,
+                "index_price": 1.1374012457,
+                "norm_price": -0.2924394903
+            },
+            {
+                "index": 29,
+                "date": "2020-07-30",
+                "press_title": "Apple Reports Third Quarter Results",
+                "release_url": "https://www.apple.com/newsroom/2020/07/apple-reports-third-quarter-results/",
+                "content": "Cupertino, California — July 30, 2020 — Apple today announced financial results for its fiscal 2020 third quarter ended June 27, 2020. The Company posted quarterly revenue of $59.7 billion, an increase of 11 percent from the year-ago quarter, and quarterly earnings per diluted share of $2.58, up 18 percent. International sales accounted for 60 percent of the quarter’s revenue.\n",
+                "1d_change": 11.3612845459,
+                "index_price": 1.2032608407,
+                "norm_price": 10.1580237052
+            },
+            {
+                "index": 30,
+                "date": "2020-07-21",
+                "press_title": "Apple commits to carbon neutrality for supply chain and products by 2030",
+                "release_url": "https://www.apple.com/newsroom/2020/07/apple-commits-to-be-100-percent-carbon-neutral-for-its-supply-chain-and-products-by-2030/",
+                "content": "Cupertino, California — Apple today unveiled its plan to become carbon neutral across its entire business, manufacturing supply chain, and product life cycle by 2030. The company is already carbon neutral today for its global corporate operations, and this new commitment means that by 2030, every Apple device sold will have net zero climate impact.\n",
+                "1d_change": -1.9532691239,
+                "index_price": 0.2289363299,
+                "norm_price": -2.1822054538
+            },
+            {
+                "index": 31,
+                "date": "2020-07-16",
+                "press_title": "Apple and HBCUs bring coding opportunities to communities across the US",
+                "release_url": "https://www.apple.com/newsroom/2020/07/apple-teams-up-with-hbcus-to-bring-coding-and-creativity-opportunities-to-communities-across-the-us/",
+                "content": "Cupertino, California — Apple today announced it is deepening its existing partnerships with Historically Black Colleges and Universities (HBCUs), adding 10 more HBCU regional coding centers that will serve as technology hubs for their campuses and broader communities. This effort is part of Apple’s Community Education Initiative, designed to bring coding, creativity, and workforce development opportunities to learners of all ages.\n",
+                "1d_change": -0.2439368723,
+                "index_price": 0.5076354655,
+                "norm_price": -0.7515723378
+            },
+            {
+                "index": 32,
+                "date": "2020-06-22",
+                "press_title": "Apple reveals new developer technologies to foster the next generation of apps",
+                "release_url": "https://www.apple.com/newsroom/2020/06/apple-reveals-new-developer-technologies-to-foster-the-next-generation-of-apps/",
+                "content": "Cupertino, California — Apple today announced a robust line-up of new technologies to help its 23 million developers design and build the apps of tomorrow. These new tools will enable developers to bring more powerful app experiences to Apple’s industry-leading platforms, and help them better manage and grow their businesses. In addition to Apple’s annual developer survey, WWDC20 will feature an online App Store lab so that developers from around the world can share their feedback and help inform future improvements to the App Store. Apple is also adding new forums for developers to relay suggestions throughout the coming year and beyond.\n",
+                "1d_change": 4.1442714041,
+                "index_price": 1.1774737162,
+                "norm_price": 2.966797688
+            },
+            {
+                "index": 33,
+                "date": "2020-06-15",
+                "press_title": "App Store ecosystem drove over half a trillion dollars in commerce in 2019",
+                "release_url": "https://www.apple.com/newsroom/2020/06/apples-app-store-ecosystem-facilitated-over-half-a-trillion-dollars-in-commerce-in-2019/",
+                "content": "Cupertino, California — Apple today announced the App Store ecosystem supported $519 billion in billings and sales globally in 2019 alone. The new study, conducted by independent economists at Analysis Group, found that the highest value categories were mobile commerce (m-commerce) apps, digital goods and services apps, and in-app advertising. The results encapsulate the full sweep of the dynamic, competitive, and flourishing app economy, which has unleashed a torrent of innovation across 175 countries and revolutionized the way the world learns, works, and connects.\n",
+                "1d_change": 5.3482175401,
+                "index_price": 4.1917081382,
+                "norm_price": 1.1565094018
+            },
+            {
+                "index": 34,
+                "date": "2020-05-07",
+                "press_title": "Apple awards $10 million from Advanced Manufacturing Fund to COPAN Diagnostics",
+                "release_url": "https://www.apple.com/newsroom/2020/05/apple-awards-10-million-from-advanced-manufacturing-fund-to-copan-diagnostics/",
+                "content": "Cupertino, California — Apple today announced it is awarding $10 million from its Advanced Manufacturing Fund to COPAN Diagnostics, a market leader in sample collection kits that play a critical role in COVID-19 testing. This funding will allow COPAN Diagnostics to rapidly accelerate their supply of sample collection kits for hospitals across the United States, expanding production from several thousand today to more than one million kits per week by early July. As part of this effort, Apple will support COPAN Diagnostics’ expansion to a new, larger facility in Southern California, with advanced equipment that Apple is helping design. This expansion is expected to create more than 50 new jobs.\n",
+                "1d_change": 2.4920686359,
+                "index_price": 1.759165752,
+                "norm_price": 0.7329028839
+            },
+            {
+                "index": 35,
+                "date": "2020-04-30",
+                "press_title": "Apple Reports Second Quarter Results",
+                "release_url": "https://www.apple.com/newsroom/2020/04/apple-reports-second-quarter-results/",
+                "content": "Cupertino, California — April 30, 2020 — Apple today announced financial results for its fiscal 2020 second quarter ended March 28, 2020. The Company posted quarterly revenue of $58.3 billion, an increase of 1 percent from the year-ago quarter, and quarterly earnings per diluted share of $2.55, up 4 percent. International sales accounted for 62 percent of the quarter’s revenue.\n",
+                "1d_change": -0.3078828134,
+                "index_price": -3.5397463023,
+                "norm_price": 3.2318634889
+            },
+            {
+                "index": 36,
+                "date": "2020-02-17",
+                "press_title": "Investor update on quarterly guidance",
+                "release_url": "https://www.apple.com/newsroom/2020/02/investor-update-on-quarterly-guidance/",
+                "content": "Cupertino, California — February 17, 2020 — As the public health response to COVID-19 continues, our thoughts remain with the communities and individuals most deeply affected by the disease, and with those working around the clock to contain its spread and to treat the ill. Apple is more than doubling our previously announced donation to support this historic public health effort. \n",
+                "1d_change": 2.5523724272,
+                "index_price": 0.5052895995,
+                "norm_price": 2.0470828277
+            },
+            {
+                "index": 37,
+                "date": "2020-01-28",
+                "press_title": "Apple Reports Record First Quarter Results",
+                "release_url": "https://www.apple.com/newsroom/2020/01/apple-reports-record-first-quarter-results/",
+                "content": "Cupertino, California — January 28, 2020 — Apple today announced financial results for its fiscal 2020 first quarter ended December 28, 2019. The Company posted quarterly revenue of $91.8 billion, an increase of 9 percent from the year-ago quarter and an all-time record, and quarterly earnings per diluted share of $4.99, up 19 percent, also an all-time record. International sales accounted for 61 percent of the quarter’s revenue.\n",
+                "1d_change": 3.6196395693,
+                "index_price": 0.5514084813,
+                "norm_price": 3.068231088
+            },
+            {
+                "index": 38,
+                "date": "2019-12-18",
+                "press_title": "Amazon, Apple, Google, and the Zigbee Alliance to develop connectivity standard",
+                "release_url": "https://www.apple.com/newsroom/2019/12/amazon-apple-google-and-the-zigbee-alliance-to-develop-connectivity-standard/",
+                "content": "Seattle and Cupertino, Mountain View and Davis, California — Amazon, Apple, Google, and the Zigbee Alliance today announced a new working group that plans to develop and promote the adoption of a new, royalty-free connectivity standard to increase compatibility among smart home products, with security as a fundamental design tenet. Zigbee Alliance board member companies such as IKEA, Legrand, NXP Semiconductors, Resideo, Samsung SmartThings, Schneider Electric, Signify (formerly Philips Lighting), Silicon Labs, Somfy, and Wulian are also onboard to join the working group and contribute to the project.\n",
+                "1d_change": 0.078539015,
+                "index_price": 0.316972951,
+                "norm_price": -0.238433936
+            },
+            {
+                "index": 39,
+                "date": "2019-11-20",
+                "press_title": "Apple expands in Austin",
+                "release_url": "https://www.apple.com/newsroom/2019/11/apple-expands-in-austin/",
+                "content": "Austin, Texas — Apple today announced the start of construction on its new campus in Austin, Texas, as part of its broad expansion in the city. At a production facility just a short distance away, Apple is preparing to ship the all-new Mac Pro to customers starting in December.\n",
+                "1d_change": -1.34729182,
+                "index_price": -0.3582964262,
+                "norm_price": -0.9889953938
+            },
+            {
+                "index": 40,
+                "date": "2019-11-04",
+                "press_title": "Apple commits $2.5 billion to combat housing crisis in California",
+                "release_url": "https://www.apple.com/newsroom/2019/11/apple-commits-two-point-five-billion-to-combat-housing-crisis-in-california/",
+                "content": "Cupertino, California — Apple today announced a comprehensive $2.5 billion plan to help address the housing availability and affordability crisis in California. As costs skyrocket for renters and potential homebuyers — and as the availability of affordable housing fails to keep pace with the region’s growth — community members like teachers, firefighters, first responders and service workers are increasingly having to make the difficult choice to leave behind the community they have long called home. Nearly 30,000 people left San Francisco between April and June of this year1 and homeownership in the Bay Area is at a seven-year low.2\n",
+                "1d_change": -0.0777785429,
+                "index_price": -0.1411505677,
+                "norm_price": 0.0633720248
+            },
+            {
+                "index": 41,
+                "date": "2019-10-30",
+                "press_title": "Apple Reports Fourth Quarter Results",
+                "release_url": "https://www.apple.com/newsroom/2019/10/apple-reports-fourth-quarter-results/",
+                "content": "Cupertino, California — October 30, 2019 — Apple today announced financial results for its fiscal 2019 fourth quarter ended September 28, 2019. The Company posted quarterly revenue of $64 billion, an increase of 2 percent from the year-ago quarter, and quarterly earnings per diluted share of $3.03, up 4 percent. International sales accounted for 60 percent of the quarter’s revenue.\n",
+                "1d_change": 1.6079724291,
+                "index_price": -0.0717658778,
+                "norm_price": 1.6797383069
+            },
+            {
+                "index": 42,
+                "date": "2019-08-29",
+                "press_title": "Apple offers customers even more options for safe, reliable repairs",
+                "release_url": "https://www.apple.com/newsroom/2019/08/apple-offers-customers-even-more-options-for-safe-reliable-repairs/",
+                "content": "Cupertino, California — Apple today announced a new repair program, offering customers additional options for the most common out-of-warranty iPhone repairs. Apple will provide more independent repair businesses — large or small —  with the same genuine parts, tools, training, repair manuals and diagnostics as its Apple Authorized Service Providers (AASPs). The program is launching in the US with plans to expand to other countries.\n",
+                "1d_change": 0.1149957461,
+                "index_price": 0.5498057026,
+                "norm_price": -0.4348099566
+            },
+            {
+                "index": 43,
+                "date": "2019-07-30",
+                "press_title": "Apple Reports Third Quarter Results",
+                "release_url": "https://www.apple.com/newsroom/2019/07/apple-reports-third-quarter-results/",
+                "content": "Cupertino, California — July 30, 2019 — Apple today announced financial results for its fiscal 2019 third quarter ended June 29, 2019. The Company posted quarterly revenue of $53.8 billion, an increase of 1 percent from the year-ago quarter, and quarterly earnings per diluted share of $2.18, down 7 percent. International sales accounted for 59 percent of the quarter’s revenue.\n",
+                "1d_change": 2.0089923091,
+                "index_price": -0.915320542,
+                "norm_price": 2.9243128511
+            },
+            {
+                "index": 44,
+                "date": "2019-07-25",
+                "press_title": "Apple to acquire the majority of Intel's smartphone modem business",
+                "release_url": "https://www.apple.com/newsroom/2019/07/apple-to-acquire-the-majority-of-intels-smartphone-modem-business/",
+                "content": "Cupertino and Santa Clara, California — Apple and Intel have signed an agreement for Apple to acquire the majority of Intel’s smartphone modem business. Approximately 2,200 Intel employees will join Apple, along with intellectual property, equipment and leases. The transaction, valued at $1 billion, is expected to close in the fourth quarter of 2019, subject to regulatory approvals and other customary conditions, including works council and other relevant consultations in certain jurisdictions.\n",
+                "1d_change": -0.553573047,
+                "index_price": 0.3172683903,
+                "norm_price": -0.8708414373
+            },
+            {
+                "index": 45,
+                "date": "2019-06-27",
+                "press_title": "Jony Ive to form independent design company with Apple as client",
+                "release_url": "https://www.apple.com/newsroom/2019/06/jony-ive-to-form-independent-design-company-with-apple-as-client/",
+                "content": "Cupertino, California — Apple today announced that Sir Jony Ive, Apple’s chief design officer, will depart the company as an employee later this year to form an independent design company which will count Apple among its primary clients. While he pursues personal projects, Ive in his new company will continue to work closely and on a range of projects with Apple.\n",
+                "1d_change": -1.1974489589,
+                "index_price": 0.751254269,
+                "norm_price": -1.9487032279
+            },
+            {
+                "index": 46,
+                "date": "2019-06-27",
+                "press_title": "Apple names Sabih Khan senior vice president of Operations",
+                "release_url": "https://www.apple.com/newsroom/2019/06/apple-names-sabih-khan-senior-vice-president-of-operations/",
+                "content": "Cupertino, California — Apple today announced that Sabih Khan, a 24-year Apple veteran, has been named to the company’s executive team as senior vice president of Operations. Khan has played an important role in delivering each of Apple’s innovative products to market since the late 1990s, leading key product operations and supply chain functions. He continues to report to Jeff Williams, Apple’s chief operating officer.\n",
+                "1d_change": -1.1974489589,
+                "index_price": 0.751254269,
+                "norm_price": -1.9487032279
+            },
+            {
+                "index": 47,
+                "date": "2019-04-30",
+                "press_title": "Apple Reports Second Quarter Results",
+                "release_url": "https://www.apple.com/newsroom/2019/04/apple-reports-second-quarter-results/",
+                "content": "Cupertino, California — April 30, 2019 — Apple today announced financial results for its fiscal 2019 second quarter ended March 30, 2019. The Company posted quarterly revenue of $58 billion, a decline of 5 percent from the year-ago quarter, and quarterly earnings per diluted share of $2.46, down 10 percent. International sales accounted for 61 percent of the quarter’s revenue.\n",
+                "1d_change": 3.5436011421,
+                "index_price": -0.4586576804,
+                "norm_price": 4.0022588225
+            },
+            {
+                "index": 48,
+                "date": "2019-04-25",
+                "press_title": "Important notice for certain AC wall plug adapters and Apple World Travel Adapter Kits",
+                "release_url": "https://www.apple.com/newsroom/2019/04/important-notice-for-certain-ac-wall-plug-adapters-and-apple-world-travel-adapter-kits/",
+                "content": "Cupertino, California — Apple today announced a voluntary recall of AC wall plug adapters designed for use primarily in Hong Kong, Singapore and the United Kingdom. In very rare cases, affected Apple three-prong wall plug adapters may break and create a risk of electrical shock if touched. These wall plug adapters shipped with Mac and certain iOS devices between 2003 and 2010 and were also included in the Apple World Travel Adapter Kit. Apple is aware of six incidents worldwide.\n",
+                "1d_change": -1.238362612,
+                "index_price": 0.3704196434,
+                "norm_price": -1.6087822554
+            },
+            {
+                "index": 49,
+                "date": "2019-04-16",
+                "press_title": "Qualcomm and Apple agree to drop all litigation",
+                "release_url": "https://www.apple.com/newsroom/2019/04/qualcomm-and-apple-agree-to-drop-all-litigation/",
+                "content": "San Diego and Cupertino, California — Qualcomm and Apple today announced an agreement to dismiss all litigation between the two companies worldwide. The settlement includes a payment from Apple to Qualcomm. The companies also have reached a six-year license agreement, effective as of April 1, 2019, including a two-year option to extend, and a multiyear chipset supply agreement.\n",
+                "1d_change": 1.8067329167,
+                "index_price": -0.4071802235,
+                "norm_price": 2.2139131402
+            },
+            {
+                "index": 50,
+                "date": "2019-03-19",
+                "press_title": "Apple teams with media literacy programs in the US and Europe",
+                "release_url": "https://www.apple.com/newsroom/2019/03/apple-teams-with-media-literacy-programs-in-the-us-and-europe/",
+                "content": "Cupertino, California — Apple today announced a new initiative in support of leading nonprofit organizations in the US and Europe that offer nonpartisan, independent media literacy programs. The News Literacy Project (NLP) and Common Sense in the US and Osservatorio Permanente Giovani-Editori in Italy will each receive support from Apple to advance their efforts in empowering young people with the critical thinking skills necessary in today’s digital age.\n",
+                "1d_change": -0.1009915286,
+                "index_price": -0.5852933157,
+                "norm_price": 0.4843017871
+            },
+            {
+                "index": 51,
+                "date": "2019-03-06",
+                "press_title": "Apple releases 13th annual Supplier Responsibility Progress Report",
+                "release_url": "https://www.apple.com/newsroom/2019/03/apple-releases-13th-annual-supplier-responsibility-progress-report/",
+                "content": "Cupertino, California — Apple today released its 13th annual Supplier Responsibility Progress Report detailing how the company is expanding educational opportunities and protecting the planet’s resources. As of 2018, 17.3 million supplier employees have been trained on workplace rights, and 3.6 million have received advanced education and skills training. All final assembly sites for iPhone, iPad, Mac, Apple Watch, AirPods and HomePod are now certified Zero Waste to Landfill, while conserving billions of gallons of water and reducing greenhouse gas emissions.\n",
+                "1d_change": -1.2579583649,
+                "index_price": -1.5038610994,
+                "norm_price": 0.2459027344
+            },
+            {
+                "index": 52,
+                "date": "2019-02-05",
+                "press_title": "Apple names Deirdre O’Brien senior vice president of Retail + People",
+                "release_url": "https://www.apple.com/newsroom/2019/02/apple-names-deirdre-obrien-senior-vice-president-of-retail-and-people/",
+                "content": "Cupertino, California — Apple today announced that Deirdre O’Brien is taking on new responsibilities for Apple’s retail and online stores in an expanded role as senior vice president of Retail + People, reporting to CEO Tim Cook. After five transformative years leading the company’s retail and online stores, Angela Ahrendts plans to depart Apple in April for new personal and professional pursuits.\n",
+                "1d_change": 0.7920046408,
+                "index_price": 0.1197103321,
+                "norm_price": 0.6722943087
+            },
+            {
+                "index": 53,
+                "date": "2019-01-29",
+                "press_title": "Apple Reports First Quarter Results",
+                "release_url": "https://www.apple.com/newsroom/2019/01/apple-reports-first-quarter-results/",
+                "content": "Cupertino, California — January 29, 2019 — Apple today announced financial results for its fiscal 2019 first quarter ended December 29, 2018. The Company posted quarterly revenue of $84.3 billion, a decline of 5 percent from the year-ago quarter, and quarterly earnings per diluted share of $4.18, up 7.5 percent. International sales accounted for 62 percent of the quarter’s revenue.\n",
+                "1d_change": 5.4462906897,
+                "index_price": 1.3487311162,
+                "norm_price": 4.0975595734
+            },
+            {
+                "index": 54,
+                "date": "2019-01-02",
+                "press_title": "Letter from Tim Cook to Apple investors",
+                "release_url": "https://www.apple.com/newsroom/2019/01/letter-from-tim-cook-to-apple-investors/",
+                "content": "January 2, 2019\n",
+                "1d_change": -8.931705192,
+                "index_price": -1.187556207,
+                "norm_price": -7.744148985
+            },
+            {
+                "index": 55,
+                "date": "2018-12-20",
+                "press_title": "John Giannandrea named to Apple’s executive team",
+                "release_url": "https://www.apple.com/newsroom/2018/12/john-giannandrea-named-to-apples-executive-team/",
+                "content": "Cupertino, California — Apple today announced that John Giannandrea has been named to the company’s executive team as senior vice president of Machine Learning and Artificial Intelligence Strategy. He joined Apple in April 2018.\n",
+                "1d_change": -6.4154666377,
+                "index_price": -3.3166115673,
+                "norm_price": -3.0988550705
+            },
+            {
+                "index": 56,
+                "date": "2018-12-13",
+                "press_title": "Apple to build new campus in Austin and add jobs across the US",
+                "release_url": "https://www.apple.com/newsroom/2018/12/apple-to-build-new-campus-in-austin-and-add-jobs-across-the-us/",
+                "content": "Cupertino, California and Austin, Texas — Apple today announced a major expansion of its operations in Austin, including an investment of $1 billion to build a new campus in North Austin. The company also announced plans to establish new sites in Seattle, San Diego and Culver City and expand in cities across the United States including Pittsburgh, New York and Boulder, Colorado over the next three years, with the potential for additional expansion elsewhere in the US over time.\n",
+                "1d_change": -3.0275383388,
+                "index_price": -2.259658882,
+                "norm_price": -0.7678794568
+            },
+            {
+                "index": 57,
+                "date": "2018-11-26",
+                "press_title": "Apple launches app development program to support women entrepreneurs",
+                "release_url": "https://www.apple.com/newsroom/2018/11/apple-launches-app-development-program-to-support-women-entrepreneurs/",
+                "content": "Cupertino, California — Apple today announced the launch of the all-new Entrepreneur Camp, a first-of-its-kind initiative designed to create new opportunities for app-driven businesses owned or led by women through an intensive technology lab, specialized support and ongoing mentoring.\n",
+                "1d_change": -9.2601e-06,
+                "index_price": 1.2005186886,
+                "norm_price": -1.2005279487
+            },
+            {
+                "index": 58,
+                "date": "2018-11-01",
+                "press_title": "Apple Reports Fourth Quarter Results",
+                "release_url": "https://www.apple.com/newsroom/2018/11/apple-reports-fourth-quarter-results/",
+                "content": "CUPERTINO, California — November 1, 2018 — Apple today announced financial results for its fiscal 2018 fourth quarter ended September 29, 2018. The Company posted quarterly revenue of $62.9 billion, an increase of 20 percent from the year-ago quarter, and quarterly earnings per diluted share of $2.91, up 41 percent. International sales accounted for 61 percent of the quarter’s revenue.\n",
+                "1d_change": -5.5764289761,
+                "index_price": 0.2012434669,
+                "norm_price": -5.777672443
+            },
+            {
+                "index": 59,
+                "date": "2018-09-24",
+                "press_title": "Apple acquires Shazam, offering more ways to discover and enjoy music",
+                "release_url": "https://www.apple.com/newsroom/2018/09/apple-acquires-shazam-offering-more-ways-to-discover-and-enjoy-music/",
+                "content": "Cupertino, California — Apple today announced it has completed its acquisition of Shazam, one of the world’s most popular and highly-rated music apps, used by hundreds of millions of people worldwide.\n",
+                "1d_change": 2.4168505119,
+                "index_price": -0.2150536914,
+                "norm_price": 2.6319042033
+            },
+            {
+                "index": 60,
+                "date": "2018-09-24",
+                "press_title": "Apple and Salesforce partner to help redefine customer experiences on iOS",
+                "release_url": "https://www.apple.com/newsroom/2018/09/apple-and-salesforce-partner-to-help-redefine-customer-experiences-on-ios/",
+                "content": "San Francisco, California — Apple and Salesforce today announced a strategic partnership that brings together the number one customer relationship management platform and iOS, the world’s most advanced mobile operating system, enabling powerful new mobile apps for business. Working with Apple, Salesforce is redesigning its app to embrace the native mobile platform with exclusive new features on iOS. The companies will also provide tools and resources for millions of Salesforce developers to build their own native apps with a new Salesforce Mobile SDK for iOS, and a new iOS app development course on Trailhead, Salesforce’s free, web-based learning platform.\n",
+                "1d_change": 2.4168505119,
+                "index_price": -0.2150536914,
+                "norm_price": 2.6319042033
+            },
+            {
+                "index": 61,
+                "date": "2018-07-31",
+                "press_title": "Apple Reports Third Quarter Results",
+                "release_url": "https://www.apple.com/newsroom/2018/07/apple-reports-third-quarter-results/",
+                "content": "Cupertino, California — July 31, 2018 — Apple today announced financial results for its fiscal 2018 third quarter ended June 30, 2018. The Company posted quarterly revenue of $53.3 billion, an increase of 17 percent from the year-ago quarter, and quarterly earnings per diluted share of $2.34, up 40 percent. International sales accounted for 60 percent of the quarter’s revenue.\n",
+                "1d_change": 5.5583070514,
+                "index_price": 0.1290317206,
+                "norm_price": 5.4292753308
+            },
+            {
+                "index": 62,
+                "date": "2018-07-13",
+                "press_title": "Apple supports Malala Fund expansion in Latin America",
+                "release_url": "https://www.apple.com/newsroom/2018/07/apple-supports-malala-fund-expansion-in-latin-america/",
+                "content": "Rio de Janeiro — Apple today launched a new collaboration between its 10 Apple Developer Academies in Brazil and Malala Fund to advance girls’ education opportunities. As part of its new expansion into Latin America, Malala Fund, which works to provide safe, quality secondary education and opportunities for girls, has also offered grants to local advocates in Brazil. The advocates join Malala Fund’s network of Gulmakai champions and will implement projects across the country designed to empower girls, teachers and policymakers through skills development, school enrollment efforts and education advocacy.\n",
+                "1d_change": -0.0890298137,
+                "index_price": 0.053601485,
+                "norm_price": -0.1426312987
+            },
+            {
+                "index": 63,
+                "date": "2018-07-12",
+                "press_title": "Apple launches new clean energy fund in China",
+                "release_url": "https://www.apple.com/newsroom/2018/07/apple-launches-new-clean-energy-fund-in-china/",
+                "content": "Cupertino, California — Apple today announced a new first-of-its-kind investment fund in China to connect suppliers with renewable energy sources. As part of Apple’s commitment to address climate change and increase the use of renewable energy within its supply chain, 10 initial suppliers and Apple will jointly invest nearly $300 million over the next four years into the China Clean Energy Fund. The fund will invest in and develop clean energy projects totaling more than 1 gigawatt of renewable energy in China, the equivalent of powering nearly 1 million homes.\n",
+                "1d_change": 0.940796686,
+                "index_price": 0.6486310203,
+                "norm_price": 0.2921656657
+            },
+            {
+                "index": 64,
+                "date": "2018-05-01",
+                "press_title": "Apple Reports Second Quarter Results",
+                "release_url": "https://www.apple.com/newsroom/2018/05/apple-reports-second-quarter-results/",
+                "content": "Cupertino, California — May 1, 2018 — Apple today announced financial results for its fiscal 2018 second quarter ended March 31, 2018. The Company posted quarterly revenue of $61.1 billion, an increase of 16 percent from the year-ago quarter, and quarterly earnings per diluted share of $2.73, up 30 percent. International sales accounted for 65 percent of the quarter’s revenue.\n",
+                "1d_change": 5.7540982515,
+                "index_price": -0.2765915034,
+                "norm_price": 6.030689755
+            },
+            {
+                "index": 65,
+                "date": "2018-04-19",
+                "press_title": "Apple adds Earth Day donations to trade-in and recycling program",
+                "release_url": "https://www.apple.com/newsroom/2018/04/apple-adds-earth-day-donations-to-trade-in-and-recycling-program/",
+                "content": "Cupertino, California — Ahead of Earth Day, Apple today announced that for every device received at Apple stores and apple.com through the Apple GiveBack program from now through April 30, the company will make a donation to the non-profit Conservation International. As part of its ongoing recycling effort, the company also debuted Daisy, a robot that can more efficiently disassemble iPhone to recover valuable materials. Both Apple GiveBack and Daisy support Apple’s commitment to create a healthier planet through innovation — and help the company move a step closer to its goal of making its products using only recycled or renewable materials.\n",
+                "1d_change": -4.8515604653,
+                "index_price": -1.161737616,
+                "norm_price": -3.6898228493
+            },
+            {
+                "index": 66,
+                "date": "2018-04-09",
+                "press_title": "Apple now globally powered by 100 percent renewable energy",
+                "release_url": "https://www.apple.com/newsroom/2018/04/apple-now-globally-powered-by-100-percent-renewable-energy/",
+                "content": "Cupertino, California — As part of its commitment to combat climate change and create a healthier environment, Apple today announced its global facilities are powered with 100 percent clean energy. This achievement includes retail stores, offices, data centers and co-located facilities in 43 countries — including the United States, the United Kingdom, China and India. The company also announced nine additional manufacturing partners have committed to power all of their Apple production with 100 percent clean energy, bringing the total number of supplier commitments to 23.\n",
+                "1d_change": 1.9451482426,
+                "index_price": 1.4938699973,
+                "norm_price": 0.4512782454
+            },
+            {
+                "index": 67,
+                "date": "2018-03-28",
+                "press_title": "Apple announces new effort to bring coding to Chicago teachers",
+                "release_url": "https://www.apple.com/newsroom/2018/03/apple-announces-new-effort-to-bring-coding-to-chicago-teachers/",
+                "content": "Chicago — Apple today announced a new collaboration with Chicago Public Schools and Northwestern University to offer free professional learning to teachers across Chicago, designed to give educators the tools they need to bring coding and computer science into the classroom.\n",
+                "1d_change": 0.3158803968,
+                "index_price": 1.1197093021,
+                "norm_price": -0.8038289054
+            },
+            {
+                "index": 68,
+                "date": "2018-02-05",
+                "press_title": "Cisco, Apple, Aon, Allianz introduce a first in cyber risk management",
+                "release_url": "https://www.apple.com/newsroom/2018/02/cisco-apple-aon-allianz-introduce-a-first-in-cyber-risk-management/",
+                "content": "San Jose, CA — Cisco, Apple, Aon and Allianz today announced a new cyber risk management solution for businesses, comprised of cyber resilience evaluation services from Aon, the most secure technology from Cisco and Apple, and options for enhanced cyber insurance coverage from Allianz. The new solution is designed to help a wider range of organizations better manage and protect themselves from cyber risk associated with ransomware and other malware-related threats, which are the most common threats faced by organizations today.\n",
+                "1d_change": 2.4106055868,
+                "index_price": -1.7038138221,
+                "norm_price": 4.1144194089
+            },
+            {
+                "index": 69,
+                "date": "2018-02-01",
+                "press_title": "Apple Reports First Quarter Results",
+                "release_url": "https://www.apple.com/newsroom/2018/02/apple-reports-first-quarter-results/",
+                "content": "Cupertino, California — February 1, 2018 — Apple today announced financial results for its fiscal 2018 first quarter ended December 30, 2017. The Company posted quarterly revenue of $88.3 billion, an increase of 13 percent from the year-ago quarter and an all-time record, and quarterly earnings per diluted share of $3.89, up 16 percent, also an all-time record. International sales accounted for 65 percent of the quarter’s revenue.\n",
+                "1d_change": -4.1557431732,
+                "index_price": -1.9666007995,
+                "norm_price": -2.1891423737
+            },
+            {
+                "index": 70,
+                "date": "2018-01-21",
+                "press_title": "Apple teams with Malala Fund to support girls’ education",
+                "release_url": "https://www.apple.com/newsroom/2018/01/apple-teams-with-malala-fund-to-support-girls-education/",
+                "content": "London — Apple and Malala Fund today announced that Apple will become the fund’s first Laureate partner, enabling a significant expansion of Malala’s effort to support girls’ education and advocate for equal opportunity. Led by Nobel Peace Prize Laureate Malala Yousafzai, Malala Fund champions every girl’s right to 12 years of free, safe, quality education.\n",
+                "1d_change": -0.1468838478,
+                "index_price": 1.0556040738,
+                "norm_price": -1.2024879216
+            },
+            {
+                "index": 71,
+                "date": "2018-01-19",
+                "press_title": "Leading European technical colleges adopt Apple’s Everyone Can Code initiative",
+                "release_url": "https://www.apple.com/newsroom/2018/01/leading-european-technical-colleges-adopt-apple-everyone-can-code-initiative/",
+                "content": "London — Apple today announced 70 colleges and universities in Europe have adopted Everyone Can Code, a comprehensive program designed by Apple to help everyone learn to build mobile apps. These colleges and universities are adopting Apple’s App Development with Swift curriculum, helping to create opportunities for all students and equipping them with the skills they need to pursue careers in the booming app economy.\n",
+                "1d_change": -0.9095888589,
+                "index_price": 1.0720153535,
+                "norm_price": -1.9816042124
+            },
+            {
+                "index": 72,
+                "date": "2018-01-17",
+                "press_title": "Apple accelerates US investment and job creation",
+                "release_url": "https://www.apple.com/newsroom/2018/01/apple-accelerates-us-investment-and-job-creation/",
+                "content": "Cupertino, California — Apple today announced a new set of investments to build on its commitment to support the American economy and its workforce, concentrated in three areas where Apple has had the greatest impact on job creation: direct employment by Apple, spending and investment with Apple’s domestic suppliers and manufacturers, and fueling the fast-growing app economy which Apple created with iPhone and the App Store. Apple is already responsible for creating and supporting over 2 million jobs across the United States and expects to generate even more jobs as a result of the initiatives being announced today.\n",
+                "1d_change": 1.7349085219,
+                "index_price": 0.4660435709,
+                "norm_price": 1.268864951
+            },
+            {
+                "index": 73,
+                "date": "2017-12-13",
+                "press_title": "Apple awards Finisar $390 million from its Advanced Manufacturing Fund",
+                "release_url": "https://www.apple.com/newsroom/2017/12/apple-awards-finisar-390-million-from-its-advanced-manufacturing-fund/",
+                "content": "Sherman, Texas — Apple today announced the latest award from its $1 billion Advanced Manufacturing Fund. Finisar, a leading manufacturer of optical communications components, will receive $390 million as part of Apple’s commitment to support innovation and job creation by American manufacturers.\n",
+                "1d_change": -0.1626096338,
+                "index_price": -0.5874818748,
+                "norm_price": 0.424872241
+            },
+            {
+                "index": 74,
+                "date": "2017-11-08",
+                "press_title": "Apple opens Everyone Can Code to students around the world",
+                "release_url": "https://www.apple.com/newsroom/2017/11/apple-opens-everyone-can-code-to-students-around-the-world/",
+                "content": "Melbourne, Australia — Apple today announced the global expansion of its Everyone Can Code initiative to more than 20 colleges and universities outside of the US. These schools will now offer the App Development with Swift Curriculum, a full-year course designed by Apple engineers and educators to teach coding and app design to students of all levels and backgrounds. Now hundreds of thousands of students from around the world gain the opportunity to become proficient in the Swift programming language and build the fundamental skills they need to pursue careers in the booming app economy.\n",
+                "1d_change": 0.6936308825,
+                "index_price": -0.1582377125,
+                "norm_price": 0.8518685949
+            },
+            {
+                "index": 75,
+                "date": "2017-11-02",
+                "press_title": "Apple Reports Fourth Quarter Results",
+                "release_url": "https://www.apple.com/newsroom/2017/11/apple-reports-fourth-quarter-results/",
+                "content": "Cupertino, California —November 2, 2017 — Apple today announced financial results for its fiscal 2017 fourth quarter ended September 30, 2017. The Company posted quarterly revenue of $52.6 billion, an increase of 12 percent from the year-ago quarter, and quarterly earnings per diluted share of $2.07, up 24 percent. International sales accounted for 62 percent of the quarter’s revenue.\n",
+                "1d_change": 3.4202933031,
+                "index_price": 0.3238270785,
+                "norm_price": 3.0964662246
+            },
+            {
+                "index": 76,
+                "date": "2017-10-18",
+                "press_title": "Apple and GE partner to bring Predix industrial apps to iOS",
+                "release_url": "https://www.apple.com/newsroom/2017/10/apple-and-ge-partner-to-bring-predix-industrial-apps-to-iphone-and-ipad/",
+                "content": "Cupertino, California, and San Ramon, California — Apple and GE today announced a partnership to deliver powerful industrial apps designed to bring predictive data and analytics from Predix, GE’s industrial Internet of Things (IoT) platform, to iPhone and iPad. The two companies unveiled a new Predix software development kit (SDK) for iOS, which gives developers the tools to make their own powerful industrial IoT apps.\n",
+                "1d_change": -2.8465177579,
+                "index_price": -0.0300542329,
+                "norm_price": -2.8164635249
+            },
+            {
+                "index": 77,
+                "date": "2017-10-06",
+                "press_title": "Katherine Adams joins Apple as general counsel and SVP",
+                "release_url": "https://www.apple.com/newsroom/2017/10/katherine-adams-joins-apple-as-general-counsel-and-svp/",
+                "content": "Cupertino, California — Apple today announced that Katherine Adams, formerly senior vice president and general counsel of Honeywell, will join Apple as general counsel and senior vice president of Legal and Global Security, reporting to CEO Tim Cook and serving on Apple’s executive team.\n",
+                "1d_change": 0.55825671,
+                "index_price": -0.1064930644,
+                "norm_price": 0.6647497744
+            },
+            {
+                "index": 78,
+                "date": "2017-08-29",
+                "press_title": "Apple and Accenture partner to create iOS business solutions",
+                "release_url": "https://www.apple.com/newsroom/2017/08/apple-and-accenture-partner-to-create-ios-business-solutions/",
+                "content": "Cupertino, California and New York — Apple and Accenture are partnering to help businesses transform how their people engage with customers through innovative business solutions for iOS. The partnership will take full advantage of the power, simplicity and security of iOS, the leading enterprise mobility platform, and Accenture’s capabilities as a leader in industry and digital transformation to help companies unlock new revenue streams, increase productivity, improve customer experience and reduce costs.\n",
+                "1d_change": 1.9895773952,
+                "index_price": 1.0437113419,
+                "norm_price": 0.9458660533
+            },
+            {
+                "index": 79,
+                "date": "2017-08-24",
+                "press_title": "Apple’s next US data center will be built in Iowa",
+                "release_url": "https://www.apple.com/newsroom/2017/08/apples-next-us-data-center-will-be-built-in-iowa/",
+                "content": "Des Moines, Iowa — Apple today announced plans to build a 400,000-square-foot, state-of-the-art data center in Waukee, Iowa, to better serve North American users of iMessage, Siri, the App Store and other Apple services. Like all Apple data centers, the new facility will run entirely on renewable energy from day one.\n",
+                "1d_change": -0.3565307003,
+                "index_price": -0.1989260631,
+                "norm_price": -0.1576046373
+            },
+            {
+                "index": 80,
+                "date": "2017-08-01",
+                "press_title": "Apple Reports Third Quarter Results",
+                "release_url": "https://www.apple.com/newsroom/2017/08/apple-reports-third-quarter-results/",
+                "content": "Cupertino, California — Apple today announced financial results for its fiscal 2017 third quarter ended July 1, 2017. The Company posted quarterly revenue of $45.4 billion and quarterly earnings per diluted share of $1.67. These results compare to revenue of $42.4 billion and earnings per diluted share of $1.42 in the year-ago quarter. International sales accounted for 61 percent of the quarter’s revenue.\n",
+                "1d_change": 5.1164281565,
+                "index_price": 0.0189690176,
+                "norm_price": 5.0974591389
+            },
+            {
+                "index": 81,
+                "date": "2017-07-21",
+                "press_title": "Deirdre O’Brien named Apple’s vice president of People",
+                "release_url": "https://www.apple.com/newsroom/2017/07/deirdre-obrien-named-apples-vice-president-of-people/",
+                "content": "Cupertino, California — Apple today announced that Deirdre O’Brien, vice president of Worldwide Sales and Operations, has been named vice president of People, reporting to CEO Tim Cook. A nearly 30-year Apple veteran, Deirdre will lead all HR functions including talent development, recruiting, benefits, compensation and business support, as well as overseeing Apple University.\n",
+                "1d_change": 1.3807828471,
+                "index_price": 0.1016235351,
+                "norm_price": 1.2791593121
+            },
+            {
+                "index": 82,
+                "date": "2017-07-18",
+                "press_title": "Isabel Ge Mahe named Apple’s managing director of Greater China",
+                "release_url": "https://www.apple.com/newsroom/2017/07/isabel-ge-mahe-named-apple-managing-director-of-greater-china/",
+                "content": "Cupertino, California — Apple today announced that Isabel Ge Mahe, vice president of Wireless Technologies, has been named vice president and managing director of Greater China, reporting to CEO Tim Cook and COO Jeff Williams. In this newly created role, Isabel will provide leadership and coordination across Apple’s China-based team.\n",
+                "1d_change": 1.2051297388,
+                "index_price": 0.7256034063,
+                "norm_price": 0.4795263325
+            },
+            {
+                "index": 83,
+                "date": "2017-06-16",
+                "press_title": "Jamie Erlicht and Zack Van Amburg join Apple",
+                "release_url": "https://www.apple.com/newsroom/2017/06/jamie-erlicht-and-zack-van-amburg-joining-apple-to-lead-video-programming/",
+                "content": "Cupertino, California — Apple today announced that Jamie Erlicht and Zack Van Amburg, two of television’s most creative and successful executives, are joining Apple in newly created positions overseeing all aspects of video programming. Erlicht and Van Amburg will lead video programming worldwide, reporting to Eddy Cue. They join Apple from Sony Pictures Television where they have served as presidents since 2005, and have been responsible for some of the most popular and widely acclaimed programming of the past decade, including favorites such as Breaking Bad and its spinoff Better Call Saul, The Crown, Rescue Me and many more.\n",
+                "1d_change": 1.7493558427,
+                "index_price": 0.9056585824,
+                "norm_price": 0.8436972603
+            },
+            {
+                "index": 84,
+                "date": "2017-05-24",
+                "press_title": "Apple launches app development curriculum for students",
+                "release_url": "https://www.apple.com/newsroom/2017/05/apple-launches-app-development-curriculum-for-high-school-community-college-students/",
+                "content": "Houston — Apple today launched a new app development curriculum designed for students who want to pursue careers in the fast-growing app economy. The curriculum is available as a free download today from Apple’s iBooks Store.\n",
+                "1d_change": 0.0194610724,
+                "index_price": 0.5656215291,
+                "norm_price": -0.5461604567
+            },
+            {
+                "index": 85,
+                "date": "2017-05-23",
+                "press_title": "Nokia and Apple sign agreement, settle all litigation",
+                "release_url": "https://www.apple.com/newsroom/2017/05/nokia-and-apple-sign-agreement-settle-all-litigation/",
+                "content": "Cupertino, California and Espoo, Finland — Nokia and Apple announced today that they have settled all litigation related to their intellectual property dispute and agreed a multi-year patent license.\n",
+                "1d_change": -1.0173268741,
+                "index_price": 0.3056847618,
+                "norm_price": -1.3230116359
+            },
+            {
+                "index": 86,
+                "date": "2017-05-12",
+                "press_title": "Apple awards Corning Advanced Manufacturing Fund investment",
+                "release_url": "https://www.apple.com/newsroom/2017/05/apple-awards-corning-first-advanced-manufacturing-fund-investment/",
+                "content": "Harrodsburg, Kentucky — Apple today announced Corning Incorporated will receive $200 million from Apple’s new Advanced Manufacturing Fund as part of the company’s commitment to foster innovation among American manufacturers. The investment will support Corning’s R&D, capital equipment needs and state-of-the-art glass processing. Corning's 65-year-old Harrodsburg facility has been integral to the 10-year collaboration between these two innovative companies and will be the focus of Apple’s investment.\n",
+                "1d_change": 0.6422664371,
+                "index_price": 0.4112743794,
+                "norm_price": 0.2309920576
+            },
+            {
+                "index": 87,
+                "date": "2017-05-02",
+                "press_title": "Apple Reports Second Quarter Results",
+                "release_url": "https://www.apple.com/newsroom/2017/05/apple-reports-second-quarter-results/",
+                "content": "CUPERTINO, California — May 2, 2017 — Apple today announced financial results for its fiscal 2017 second quarter ended April 1, 2017. The Company posted quarterly revenue of $52.9 billion and quarterly earnings per diluted share of $2.10. These results compare to revenue of $50.6 billion and earnings per diluted share of $1.90 in the year-ago quarter. International sales accounted for 65 percent of the quarter’s revenue.\n",
+                "1d_change": -0.326379705,
+                "index_price": -0.1222783583,
+                "norm_price": -0.2041013467
+            },
+            {
+                "index": 88,
+                "date": "2017-04-25",
+                "press_title": "“Today at Apple” bringing new experiences to every Apple Store",
+                "release_url": "https://www.apple.com/newsroom/2017/04/today-at-apple-bringing-new-experiences-to-every-apple-store/",
+                "content": "Cupertino, California — Apple today announced plans to launch dozens of new educational sessions next month in all 495 Apple stores ranging in topics from photo and video to music, coding, art and design and more. The hands-on sessions, collectively called “Today at Apple,” will be led by highly-trained team members, and in select cities world-class artists, photographers and musicians, teaching sessions from basics and how-to lessons to professional-level programs.\n",
+                "1d_change": -0.1601030154,
+                "index_price": 0.2487985729,
+                "norm_price": -0.4089015883
+            },
+            {
+                "index": 89,
+                "date": "2017-03-21",
+                "press_title": "Apple introduces iPhone 7 and iPhone 7 Plus (PRODUCT)RED Special Edition",
+                "release_url": "https://www.apple.com/newsroom/2017/03/apple-introduces-iphone-7-and-iphone-7-plus-productred-special-edition/",
+                "content": "Cupertino, California — Apple today announced iPhone 7 and iPhone 7 Plus (PRODUCT)RED Special Edition in a vibrant red aluminum finish, in recognition of more than 10 years of partnership between Apple and (RED). This gives customers an unprecedented way to contribute to the Global Fund and bring the world a step closer to an AIDS-free generation. The special edition (PRODUCT)RED iPhone will be available to order online worldwide and in stores beginning Friday, March 24.\n",
+                "1d_change": -0.4879220505,
+                "index_price": -1.3144890387,
+                "norm_price": 0.8265669882
+            },
+            {
+                "index": 90,
+                "date": "2017-02-22",
+                "press_title": "Apple Park opens to employees in April",
+                "release_url": "https://www.apple.com/newsroom/2017/02/apple-park-opens-to-employees-in-april/",
+                "content": "Cupertino, California — Apple today announced that Apple Park, the company’s new 175-acre campus, will be ready for employees to begin occupying in April. The process of moving more than 12,000 people will take over six months, and construction of the buildings and parklands is scheduled to continue through the summer.\n",
+                "1d_change": 0.0732555235,
+                "index_price": 0.1142203098,
+                "norm_price": -0.0409647863
+            },
+            {
+                "index": 91,
+                "date": "2017-02-16",
+                "press_title": "Apple’s WWDC returns to San Jose June 5-9, 2017",
+                "release_url": "https://www.apple.com/newsroom/2017/02/wwdc-apples-worldwide-developers-conference-returns-to-san-jose-june-5-9-2017/",
+                "content": "Cupertino, California — Apple today announced its 28th annual Worldwide Developers Conference (WWDC) — hosting the world’s most talented developer community — will be held at the McEnery Convention Center in San Jose. The conference, kicking off June 5, will inspire developers from all walks of life to turn their passions into the next great innovations and apps that customers use every day across iPhone, iPad, Apple Watch, Apple TV and Mac.\n",
+                "1d_change": 0.0368703681,
+                "index_price": 0.0646497724,
+                "norm_price": -0.0277794043
+            },
+            {
+                "index": 92,
+                "date": "2017-01-31",
+                "press_title": "Apple Reports Record First Quarter Results",
+                "release_url": "https://www.apple.com/newsroom/2017/01/apple-reports-record-first-quarter-results/",
+                "content": "CUPERTINO, California — January 31, 2017 — Apple today announced financial results for its fiscal 2017 first quarter ended December 31, 2016. The Company posted all-time record quarterly revenue of $78.4 billion and all-time record quarterly earnings per diluted share of $3.36. These results compare to revenue of $75.9 billion and earnings per diluted share of $3.28 in the year-ago quarter. International sales accounted for 64 percent of the quarter’s revenue.\n",
+                "1d_change": 5.9029022093,
+                "index_price": 0.2425930196,
+                "norm_price": 5.6603091897
+            },
+            {
+                "index": 93,
+                "date": "2017-01-05",
+                "press_title": "App Store shatters records on New Year’s Day",
+                "release_url": "https://www.apple.com/newsroom/2017/01/app-store-shatters-records-on-new-years-day/",
+                "content": "Cupertino, California — Apple today announced that the App Store welcomed 2017 with its busiest single day ever on New Year’s Day, capping a record-breaking holiday season and a year of unprecedented developer earnings and breakout app hits. In 2016 alone, developers earned over $20 billion, up over 40 percent from 2015. Since the App Store launched in 2008, developers have earned over $60 billion, creating amazing app experiences for App Store customers across iPhone, iPad, Apple Watch, Apple TV and Mac. Those efforts helped kick off 2017 with a remarkable start, making New Year’s Day the highest single day ever for the App Store with nearly $240 million in purchases.\n",
+                "1d_change": 1.6877377247,
+                "index_price": 0.3864789723,
+                "norm_price": 1.3012587524
+            },
+            {
+                "index": 94,
+                "date": "2016-11-30",
+                "press_title": "Apple turns (RED) with more ways than ever to join the fight against AIDS",
+                "release_url": "https://www.apple.com/newsroom/2016/11/apple-turns-red-with-more-ways-than-ever-to-join-the-fight-against-aids/",
+                "content": "Cupertino, California — In honor of World AIDS Day, Apple is offering more ways than ever for customers to join (RED) in its mission to create an AIDS-free generation. Apple is the world’s largest corporate contributor to the Global Fund, and this year marks its 10th anniversary of supporting (RED) in the fight to end AIDS.",
+                "1d_change": -1.9271347915,
+                "index_price": -0.6339290251,
+                "norm_price": -1.2932057664
+            },
+            {
+                "index": 95,
+                "date": "2016-10-25",
+                "press_title": "Apple Reports Fourth Quarter Results",
+                "release_url": "https://www.apple.com/newsroom/2016/10/apple-reports-fourth-quarter-results/",
+                "content": "Services Revenue Grows 24% to All-Time Quarterly Record of $6.3 Billion",
+                "1d_change": -2.0417154712,
+                "index_price": -0.4809710713,
+                "norm_price": -1.5607443999
+            },
+            {
+                "index": 96,
+                "date": "2016-09-28",
+                "press_title": "Apple and Deloitte transform business on iPhone and iPad",
+                "release_url": "https://www.apple.com/newsroom/2016/09/apple-and-deloitte-team-up-to-accelerate-business-transformation-on-iphone-and-ipad/",
+                "content": "Cupertino, California and New York — Apple and Deloitte today announced a partnership to help companies quickly and easily transform the way they work by maximizing the power, ease-of-use and security the iOS platform brings to the workplace through iPhone and iPad. As part of the joint effort, Deloitte is creating a first-of-its-kind Apple practice with over 5,000 strategic advisors who are solely focused on helping businesses change the way they work across their entire enterprise, from customer-facing functions such as retail, field services and recruiting, to R&D, inventory management and back-office systems.",
+                "1d_change": -1.3460656852,
+                "index_price": -0.4983527461,
+                "norm_price": -0.8477129391
+            },
+            {
+                "index": 97,
+                "date": "2016-09-07",
+                "press_title": "Apple and Nike launch Apple Watch Nike+",
+                "release_url": "https://www.apple.com/newsroom/2016/09/apple-nike-launch-apple-watch-nike/",
+                "content": "San Francisco and Beaverton, Ore. — Today, Apple and Nike introduced Apple Watch Nike+, the latest result of a long-standing partnership. Apple Watch Nike+ is the ultimate tool for anyone who runs, pairing exclusive Nike Sport Bands with Apple Watch Series 2, which features GPS, a two-times-brighter display, water resistance 50 meters,* a powerful dual-core processor and watchOS 3. Apple Watch Nike+ also includes exclusive Siri commands and iconic Nike watch faces along with deep integration with the new Nike+ Run Club app for unrivaled motivation to go for a run, coaching plans that adapt to your unique schedule and progress, and guidance from the world’s best coaches and athletes. Apple Watch Nike+ is the ultimate companion for those with a passion for running, whether they’re emerging runners or marathon veterans.",
+                "1d_change": -2.1891496537,
+                "index_price": -0.1774113125,
+                "norm_price": -2.0117383412
+            },
+            {
+                "index": 98,
+                "date": "2016-08-17",
+                "press_title": "Apple announces environmental progress in China",
+                "release_url": "https://www.apple.com/newsroom/2016/08/apple-announces-environmental-progress-in-china/",
+                "content": "Beijing — Apple today announced a significant commitment by major supplier Lens Technology to run its Apple operations on entirely renewable energy. This unprecedented commitment, combined with zero waste compliance from all final assembly sites, furthers Apple’s efforts to help manufacturers lower their carbon footprint and reduce waste in China, helping to advance China’s transition to a new green economy.",
+                "1d_change": -0.0183281256,
+                "index_price": 0.4197461184,
+                "norm_price": -0.438074244
+            },
+            {
+                "index": 99,
+                "date": "2016-07-26",
+                "press_title": "Apple Reports Third Quarter Results",
+                "release_url": "https://www.apple.com/newsroom/2016/07/apple-reports-third-quarter-results/",
+                "content": "Services Revenue Grows 19% as App Store Hits All-Time Record",
+                "1d_change": 5.9543459014,
+                "index_price": -0.1103071427,
+                "norm_price": 6.0646530441
+            },
+            {
+                "index": 100,
+                "date": "2016-07-05",
+                "press_title": "Apple & Donate Life America bring organ donation to iPhone",
+                "release_url": "https://www.apple.com/newsroom/2016/07/apple-and-donate-life-america-bring-organ-donation-to-iphone/",
+                "content": "Cupertino, CA and Richmond, VA —  Apple and Donate Life America announced today that, for the first time ever, iPhone users will be able to sign up to be an organ, eye and tissue donor right from the Health app with the release of iOS 10. Through a simple sign up process, iPhone users can learn more and take action with just a few taps. All registrations submitted from iPhone are sent directly to the National Donate Life Registry managed by Donate Life America. The ability to quickly and easily become a nationally-registered donor enables people to carry their decision with them wherever they go. ",
+                "1d_change": 0.1465691694,
+                "index_price": 0.222882546,
+                "norm_price": -0.0763133767
+            }
+        ]
+    }
+]
